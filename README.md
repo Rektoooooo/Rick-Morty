@@ -1,4 +1,4 @@
-# Simple api switft api fetch app
+# Simple api swift api fetch app
 https://rickandmortyapi.com/
 
 # App showcase
